@@ -13,6 +13,11 @@
 
             <TextBlock Text="ФИО студента : " VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="30" Foreground="White" Background="{x:Null}"/>
             <TextBox Grid.Column="1" Text="{Binding Path=Name}" VerticalAlignment="Center" IsReadOnly="False" Background="white" Foreground="black" Height="35"/>
+
+            <TextBlock Text="Группа : " VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="30" Foreground="white" Background="{x:Null}"/>
+            <TextBox Grid.Column="1" Text="{Binding Path=Group}" VerticalAlignment="Top" IsReadOnly="False" Background="white" Foreground="black" Height="34"/>
+
+
         </Grid>
     </DataTemplate>
 

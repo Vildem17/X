@@ -27,8 +27,12 @@
                     <DataTemplate>
                         <Border BorderBrush="white" BorderThickness="3" Padding="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
                             <StackPanel Orientation="Horizontal">
-                                <TextBox Text="{Binding Name}" Background="{x:Null}" Foreground="black" BorderBrush="Black"/>
+                                <TextBox Text="{Binding Name}" Background="{x:Null}" Foreground="black"  />
                                 <TextBlock Text="{Binding Name.Length, StringFormat=: \{0\}}" Foreground="black"/>
+
+                                <TextBlock Text="------"/>
+                                <TextBox Text="{Binding Group}" Background="{x:Null}" Foreground="Black"  />
+                                <TextBlock Text="{Binding Group.Length, StringFormat=: \{0\}}" Foreground="Black"/>
                             </StackPanel>
                         </Border>
                     </DataTemplate>

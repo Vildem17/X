@@ -94,8 +94,8 @@ namespace WpfApp3
             openFileDialog.Filter = "XML Files|*.xml|All Files|*.*";
 
             dataSource = new StringDataSource();
-            dataSource.data.Add(new Student("Pavel"));
-            dataSource.data.Add(new Student("Ivan")); 
+            //dataSource.data.Add(new Student("Pavel"));
+            //dataSource.data.Add(new Student("Ivan")); 
         }
        
 

@@ -13,12 +13,22 @@ namespace WpfApp3
     public class Student
     {
         public Student() { }
-        public Student(string name)
+        public Student(string name, string group)
         {
             this.Name = name;
+            this.Group = group;
         }
 
         public string Name { get; set; }
+        public string Group { get; set; }
+    }
+
+    public class Group
+    {
+
+        public int Number { get; set; }
+        public int Cource { get; set; }
+        public string Track { get; set; }
     }
 
     [Serializable]

@@ -53,3 +53,40 @@ C:\Users\admin\Desktop\10лаб\DataEditor\obj\Debug\Window1.baml
 C:\Users\admin\Desktop\10лаб\DataEditor\obj\Debug\WpfApp3.g.resources
 C:\Users\admin\Desktop\10лаб\DataEditor\obj\Debug\WpfApp3.Properties.Resources.resources
 C:\Users\admin\Desktop\10лаб\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\NewStudent.g.cs
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3.exe
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3.pdb
+C:\Users\User\Desktop\10lab-master\DataEditor\bin\Debug\WpfApp3.exe.config
+C:\Users\User\Desktop\10lab-master\DataEditor\bin\Debug\WpfApp3.exe
+C:\Users\User\Desktop\10lab-master\DataEditor\bin\Debug\WpfApp3.pdb
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\DataTemplate.baml
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\NewStudent.baml
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\Window1.baml
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3.g.resources
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\10lab-master\DataEditor\obj\Debug\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kk (1)\DataEditor\bin\Debug\WpfApp3.exe.config
+C:\Users\admin\Desktop\kk (1)\DataEditor\bin\Debug\WpfApp3.exe
+C:\Users\admin\Desktop\kk (1)\DataEditor\bin\Debug\WpfApp3.pdb
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\NewStudent.g.cs
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\Window1.g.cs
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\DataTemplate.baml
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\NewStudent.baml
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\Window1.baml
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3.g.resources
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3.exe
+C:\Users\admin\Desktop\kk (1)\DataEditor\obj\Debug\WpfApp3.pdb
